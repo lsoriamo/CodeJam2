@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "203423074850",
+    "firebase_url": "https://codejam-95f40.firebaseio.com",
+    "project_id": "codejam-95f40",
+    "storage_bucket": "codejam-95f40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203423074850:android:6a1e2639256fa1c3",
+        "android_client_info": {
+          "package_name": "codejam.preobar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203423074850-hfef8rb0f6jflic8463n3qlho7ndel94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "codejam.preobar",
+            "certificate_hash": "e647e6ab83365bb84408d9c60c76fca4b3aa86f2"
+          }
+        },
+        {
+          "client_id": "203423074850-k9vcgb0livdo9jifao29gfb6d9k0h656.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAliUItB0I6AIPrwem1i7QP49nterC3KvA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203423074850-k9vcgb0livdo9jifao29gfb6d9k0h656.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
